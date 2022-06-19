@@ -1,0 +1,59 @@
+.main {
+    background-color:rgb(254, 232, 200);
+
+}
+#header-navbar{
+
+    border: none;
+    border-radius: 0;
+    background-color: rgb(3, 79, 3);
+    
+  
+}
+.navbar-brand span{
+    font-size: 30px;	
+    color: rgb(255, 123, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#nav-list a {
+    text-align: center;
+ 
+}
+#nav-list a span{
+    font-size: 1.8em;
+    margin-right: auto;
+   
+   
+}
+#nav-list{
+    
+    padding-right:50px;
+}
+.navbar-header button.navbar-toggle , .navbar-header .icon-bar{
+    border: 1px solid white;
+    background-color: transparent;
+}
+.glyphicon{
+    padding-right: 20px;
+}
+#home-tiles{
+    background-color:rgb(238, 182, 108)
+}
+#main-content h2 span{
+    color: rgb(255, 123, 0);
+    
+    
+}
+#home-tiles{
+    margin-top: 40px;
+}
+#home-tiles h2{
+    text-align: center;
+    color:rgb(185, 92, 5);
+    padding-bottom: 20px;
+}
+#home-tiles p{
+    word-spacing: 2px;
+    line-height: 30px;
+}
